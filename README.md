@@ -1,5 +1,8 @@
 
 # 🧠🤖 Brain-Reading Robots: How Healthcare Is Quietly Being Transformed
+                                 ![Brain Computer Interface Diagram](https://raw.githubusercontent.com/openbci/docs/master/docs/assets/images/BCI_pipeline.png)
+
+                            
 
 Imagine being unable to move your hands, speak, or even press a button — yet still being able to control a robot, type words, or move a prosthetic limb *just by thinking*.
 
@@ -23,8 +26,8 @@ In simple terms, a BCI acts as a *translator* between the human brain and a mach
 ## 🧠 How the Technology Actually Works
 
 Below is a simplified view of how brain-reading robots function:
+![EEG Brain Signal Capture](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/EEG_cap.jpg/640px-EEG_cap.jpg)
 
-![Brain Computer Interface Diagram]https://raw.githubusercontent.com/wiki/openbci/Docs/images/BCI_pipeline.png
 
 ### Step-by-step process:
 
@@ -46,6 +49,8 @@ Brain-reading robots are already being used to help patients with:
 - Stroke recovery
 - Spinal cord injuries
 - Neurodegenerative disorders
+![Brain Controlled Robotic Arm](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brain-controlled_prosthetic_arm.jpg/640px-Brain-controlled_prosthetic_arm.jpg)
+
 
 Patients can control:
 - Robotic arms
@@ -57,6 +62,8 @@ All without physical movement.
 
 ### ⚡ Faster, More Reliable Assistance
 In medical environments, response time matters.
+
+![Assistive Healthcare Robot](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Healthcare_robot_assistance.jpg/640px-Healthcare_robot_assistance.jpg)
 
 Brain-controlled systems:
 - Reduce physical strain on patients
@@ -76,6 +83,8 @@ Modern AI models can:
 - Reduce errors in interpretation  
 
 This has made brain-machine systems far more reliable than before.
+
+![Human Brain and Robot Interaction](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Human_robot_interaction_brain.jpg/640px-Human_robot_interaction_brain.jpg)
 
 ### 🧪 Increased Research and Investment
 Governments, universities, and private companies are investing heavily in:
