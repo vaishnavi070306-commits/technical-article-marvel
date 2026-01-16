@@ -24,8 +24,7 @@ In simple terms, a BCI acts as a *translator* between the human brain and a mach
 
 Below is a simplified view of how brain-reading robots function:
 
-![Brain Computer Interface Diagram]
-https://raw.githubusercontent.com/wiki/openbci/Docs/images/BCI_pipeline.png
+![Brain Computer Interface Diagram]https://raw.githubusercontent.com/wiki/openbci/Docs/images/BCI_pipeline.png
 
 ### Step-by-step process:
 
@@ -91,8 +90,7 @@ With aging populations and an increase in neurological conditions, there is a gr
 
 ## 🖼️ Real-World Applications Already in Use
 
-![Brain-Controlled Robot]
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brain-controlled_robot.jpg/640px-Brain-controlled_robot.jpg
+![Brain-Controlled Robot]https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brain-controlled_robot.jpg/640px-Brain-controlled_robot.jpg
 
 Brain-reading robots are already helping in:
 - Neuro-rehabilitation therapy
