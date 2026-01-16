@@ -92,6 +92,8 @@ With aging populations and an increase in neurological conditions, there is a gr
 
 ![Brain-Controlled Robot]https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brain-controlled_robot.jpg/640px-Brain-controlled_robot.jpg
 
+
+Fix image rendering in article
 Brain-reading robots are already helping in:
 - Neuro-rehabilitation therapy
 - Assistive communication for speech-impaired patients
