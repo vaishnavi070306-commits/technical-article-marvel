@@ -11,7 +11,7 @@ This is not science fiction anymore.
 
 Brain-reading robots are becoming a reality, and between *2022 and 2030, this technology is expected to grow rapidly — especially in the **healthcare industry*, where speed, accuracy, and reliability can change lives.
 
-![WhatsApp Image 2026-01-17 at 2 51 58 PM](https://github.com/user-attachments/assets/304485a6-78e1-4f9c-b172-0fb899673b99)
+
 <img src="https://github.com/user-attachments/assets/304485a6-78e1-4f9c-b172-0fb899673b99" alt="Image 1" width="400">
 
 ## What Are Brain-Reading Robots?
@@ -29,7 +29,7 @@ In simple terms, a BCI acts as a *translator* between the human brain and a mach
 ## How the Technology Actually Works
 
 Below is a simplified view of how brain-reading robots function:
-![WhatsApp Image 2026-01-17 at 2 39 56 PM](https://github.com/user-attachments/assets/ede8cb14-a2e1-466c-8fec-033a6ee52c69)
+
 <img src="https://github.com/user-attachments/assets/ede8cb14-a2e1-466c-8fec-033a6ee52c69" alt="Image 2" width="400">
 
 ### Step-by-step process:
@@ -51,7 +51,7 @@ Healthcare is the *strongest driver* behind the growth of brain-reading robots, 
 
 
 <img src="https://github.com/user-attachments/assets/c5e419f7-2db7-4bbb-96f7-57a202b98d8a" alt="Image 3" width="400">
-1[WhatsApp Image 2026-01-17 at 2 54 36 PM](https://github.com/user-attachments/assets/c5e419f7-2db7-4bbb-96f7-57a202b98d8a)
+
 
 
 Brain-reading robots are already being used to help patients with:
@@ -67,7 +67,7 @@ Patients can control:
 - Wheelchairs
 - Communication systems
 
-  ![WhatsApp Image 2026-01-17 at 2 35 53 PM](https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7)
+
 
   <img src="https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7" alt="Image 4" width="400">
 
@@ -94,7 +94,7 @@ Modern AI models can:
 - Reduce errors in interpretation  
 
 This has made brain-machine systems far more reliable than before.
-![WhatsApp Image 2026-01-17 at 2 56 51 PM](https://github.com/user-attachments/assets/dac544f4-d9a1-4442-b800-39cabb54bb4d)
+
 
 <img src="https://github.com/user-attachments/assets/dac544f4-d9a1-4442-b800-39cabb54bb4d" alt="Image 5" width="400">
 
@@ -112,7 +112,7 @@ With aging populations and an increase in neurological conditions, there is a gr
 
 ##  Real-World Applications Already in Use
 
-![WhatsApp Image 2026-01-17 at 2 48 59 PM](https://github.com/user-attachments/assets/c147ddcb-3ae4-4a96-9dce-aba5336d3968)
+
 <img src="https://github.com/user-attachments/assets/c147ddcb-3ae4-4a96-9dce-aba5336d3968" alt="Image 6" width="400">
 
 Brain-reading robots are already helping in:
@@ -143,7 +143,7 @@ By *2030*, brain-reading robots may:
 - Support remote healthcare and monitoring
 - Improve quality of life for millions of patients
 
-![WhatsApp Image 2026-01-17 at 2 56 51 PM](https://github.com/user-attachments/assets/5be0776e-b30a-445a-a9ea-c4ebb880d88f)
+
 <img src="https://github.com/user-attachments/assets/5be0776e-b30a-445a-a9ea-c4ebb880d88f" alt="Image 7" width="400">
 
 As costs decrease and accuracy improves, their use may expand beyond hospitals into everyday assistive devices.
