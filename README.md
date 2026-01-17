@@ -3,17 +3,17 @@
                               
 
                             
-
-Imagine being unable to move your hands, speak, or even press a button — yet still being able to control a robot, type words, or move a prosthetic limb *just by thinking*.
+                            
+                          
+                        Imagine being unable to move your hands, speak, or even press a button — yet still being able to control a robot, type words, or move a prosthetic limb *just by thinking*.
 
 This is not science fiction anymore.
 
 Brain-reading robots are becoming a reality, and between *2022 and 2030, this technology is expected to grow rapidly — especially in the **healthcare industry*, where speed, accuracy, and reliability can change lives.
 
+![WhatsApp Image 2026-01-17 at 2 51 58 PM](https://github.com/user-attachments/assets/304485a6-78e1-4f9c-b172-0fb899673b99)
 
 ## 🧩 What Are Brain-Reading Robots?
-
-![WhatsApp Image 2026-01-17 at 2 39 56 PM](https://github.com/user-attachments/assets/ede8cb14-a2e1-466c-8fec-033a6ee52c69)
 
 Despite the dramatic name,brain-reading robots do *not* read thoughts,memories,or emotions.
 
@@ -28,6 +28,7 @@ In simple terms, a BCI acts as a *translator* between the human brain and a mach
 ## 🧠 How the Technology Actually Works
 
 Below is a simplified view of how brain-reading robots function:
+![WhatsApp Image 2026-01-17 at 2 39 56 PM](https://github.com/user-attachments/assets/ede8cb14-a2e1-466c-8fec-033a6ee52c69)
 
 ### Step-by-step process:
 
@@ -44,19 +45,25 @@ No thoughts are decoded — only measurable electrical activity.
 Healthcare is the *strongest driver* behind the growth of brain-reading robots, and for good reason.
 
 ### 🧑‍⚕️ Helping Patients Regain Independence
+
+
+
+![WhatsApp Image 2026-01-17 at 2 54 36 PM](https://github.com/user-attachments/assets/c5e419f7-2db7-4bbb-96f7-57a202b98d8a)
+
 Brain-reading robots are already being used to help patients with:
 - Paralysis
 - Stroke recovery
 - Spinal cord injuries
 - Neurodegenerative disorders
 
-![WhatsApp Image 2026-01-17 at 2 35 53 PM](https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7)
 
 Patients can control:
 - Robotic arms
 - Prosthetic limbs
 - Wheelchairs
-- Communication systems  
+- Communication systems
+
+  ![WhatsApp Image 2026-01-17 at 2 35 53 PM](https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7)
 
 All without physical movement.
 
@@ -80,7 +87,8 @@ Modern AI models can:
 - Learn and improve over time
 - Reduce errors in interpretation  
 
-This has made brain-machine systems far more reliable than before.<img width="127" height="71" alt="robotic-arm" src="https://github.com/user-attachments/assets/9ad38127-ef53-42fd-9c37-3334b3a8a01e" />
+This has made brain-machine systems far more reliable than before.
+<img width="140" height="89" alt="robotic-arm" src="https://github.com/user-attachments/assets/9ad38127-ef53-42fd-9c37-3334b3a8a01e" />
 
 
 ### 🧪 Increased Research and Investment
@@ -96,15 +104,14 @@ With aging populations and an increase in neurological conditions, there is a gr
 
 ## 🖼️ Real-World Applications Already in Use
 
-![Brain-Controlled Robot]https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brain-controlled_robot.jpg/640px-Brain-controlled_robot.jpg
+![WhatsApp Image 2026-01-17 at 2 48 59 PM](https://github.com/user-attachments/assets/c147ddcb-3ae4-4a96-9dce-aba5336d3968)
 
-
-Fix image rendering in article
 Brain-reading robots are already helping in:
 - Neuro-rehabilitation therapy
 - Assistive communication for speech-impaired patients
 - Precision robotic control
 - Medical research and diagnostics
+
 
 This technology is no longer experimental — it is *operational*.
 
@@ -114,7 +121,7 @@ While promising, brain-reading robots also raise important concerns:
 
 - High equipment and maintenance costs  
 - Need for trained professionals  
-- Privacy a- nd security of brain data  
+- Privacy and security of brain data  
 - Ethical questions around consent and misuse  
 
 Addressing these challenges is essential for responsible adoption.
@@ -126,6 +133,8 @@ By *2030*, brain-reading robots may:
 - Enable hands-free control of medical devices
 - Support remote healthcare and monitoring
 - Improve quality of life for millions of patients
+
+![WhatsApp Image 2026-01-17 at 2 56 51 PM](https://github.com/user-attachments/assets/5be0776e-b30a-445a-a9ea-c4ebb880d88f)
 
 As costs decrease and accuracy improves, their use may expand beyond hospitals into everyday assistive devices.
 
