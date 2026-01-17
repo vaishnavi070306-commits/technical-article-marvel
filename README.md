@@ -1,6 +1,6 @@
 
 # 🧠🤖 Brain-Reading Robots: How Healthcare Is Quietly Being Transformed
-                                 ![Brain Computer Interface Diagram](https://raw.githubusercontent.com/openbci/docs/master/docs/assets/images/BCI_pipeline.png)
+                              
 
                             
 
@@ -12,6 +12,8 @@ Brain-reading robots are becoming a reality, and between *2022 and 2030, this te
 
 
 ## 🧩 What Are Brain-Reading Robots?
+
+![WhatsApp Image 2026-01-17 at 2 39 56 PM](https://github.com/user-attachments/assets/ede8cb14-a2e1-466c-8fec-033a6ee52c69)
 
 Despite the dramatic name,brain-reading robots do *not* read thoughts,memories,or emotions.
 
@@ -26,8 +28,6 @@ In simple terms, a BCI acts as a *translator* between the human brain and a mach
 ## 🧠 How the Technology Actually Works
 
 Below is a simplified view of how brain-reading robots function:
-![EEG Brain Signal Capture](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/EEG_cap.jpg/640px-EEG_cap.jpg)
-
 
 ### Step-by-step process:
 
@@ -49,8 +49,8 @@ Brain-reading robots are already being used to help patients with:
 - Stroke recovery
 - Spinal cord injuries
 - Neurodegenerative disorders
-![Brain Controlled Robotic Arm](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brain-controlled_prosthetic_arm.jpg/640px-Brain-controlled_prosthetic_arm.jpg)
 
+![WhatsApp Image 2026-01-17 at 2 35 53 PM](https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7)
 
 Patients can control:
 - Robotic arms
@@ -62,8 +62,6 @@ All without physical movement.
 
 ### ⚡ Faster, More Reliable Assistance
 In medical environments, response time matters.
-
-![Assistive Healthcare Robot](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Healthcare_robot_assistance.jpg/640px-Healthcare_robot_assistance.jpg)
 
 Brain-controlled systems:
 - Reduce physical strain on patients
@@ -82,9 +80,8 @@ Modern AI models can:
 - Learn and improve over time
 - Reduce errors in interpretation  
 
-This has made brain-machine systems far more reliable than before.
+This has made brain-machine systems far more reliable than before.<img width="127" height="71" alt="robotic-arm" src="https://github.com/user-attachments/assets/9ad38127-ef53-42fd-9c37-3334b3a8a01e" />
 
-![Human Brain and Robot Interaction](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Human_robot_interaction_brain.jpg/640px-Human_robot_interaction_brain.jpg)
 
 ### 🧪 Increased Research and Investment
 Governments, universities, and private companies are investing heavily in:
