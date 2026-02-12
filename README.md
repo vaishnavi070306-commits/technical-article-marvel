@@ -16,7 +16,7 @@ Once decoded, these neural patterns are translated into control commands that en
 
 The operation of brain-reading robots follows a structured pipeline of neural signal acquisition, preprocessing, feature extraction, and classification. EEG devices capture electrical activity from the scalp, which is filtered to remove noise and artifacts. Advanced models, including deep neural networks, analyze the processed signals to identify motor intentions or control commands that correspond to specific actions. These decoded outputs are then transmitted to robotic systems, which execute the intended movement in real time, translating neural intent into physical action. 0
 
-## 🏥 Why Healthcare Is Leading the Market
+## Why Healthcare Is Leading the Market
 
 Healthcare is the primary application domain for brain-reading robots due to the direct therapeutic and rehabilitative benefits demonstrated in clinical research. BCIs have been increasingly integrated with robotic rehabilitation systems to support recovery in patients with motor impairments resulting from stroke, spinal cord injury, and other neurological conditions. Clinical reviews show that BCI-robot systems can promote improvements in motor function and upper limb rehabilitation, particularly in structured therapy settings where targeted neural feedback enhances recovery outcomes. 1
 
