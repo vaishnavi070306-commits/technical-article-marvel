@@ -2,7 +2,7 @@
 
 Brain–computer interfaces (BCIs) enable direct communication between the human brain and external devices by translating neural signals into executable commands. Advances in signal processing, artificial intelligence, and robotics have enabled the integration of BCIs with robotic systems, particularly within healthcare environments where precision, safety, and clinical reliability are critical.
 
-
+<br><br>
 
 <img src="https://github.com/user-attachments/assets/304485a6-78e1-4f9c-b172-0fb899673b99" alt="Image 1" width="400">
 
