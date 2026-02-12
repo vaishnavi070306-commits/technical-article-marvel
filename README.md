@@ -4,7 +4,7 @@ Brain–computer interfaces (BCIs) enable direct communication between the human
 
 
 
-<img src="https://github.com/user-attachments/assets/304485a6-78e1-4f9c-b172-0fb899673b99" alt="Image 1" width="400">
+<img src="https://github.com/user-attachments/assets/304485a6-78e1-4f9c-b172-0fb899673b99" alt="Image 1" width="800">
 
 <br><br>
 
@@ -17,7 +17,7 @@ Once decoded, these neural patterns are translated into control commands that en
 ## How the Technology Actually Works
 
 
-<img src="https://github.com/user-attachments/assets/ede8cb14-a2e1-466c-8fec-033a6ee52c69" alt="Image 2" width="400">
+<img src="https://github.com/user-attachments/assets/ede8cb14-a2e1-466c-8fec-033a6ee52c69" alt="Image 2" width="800">
 <br><br>
 
 The operation of brain-reading robots follows a structured pipeline of neural signal acquisition, preprocessing, feature extraction, and classification. EEG devices capture electrical activity from the scalp, which is filtered to remove noise and artifacts. Advanced models, including deep neural networks, analyze the processed signals to identify motor intentions or control commands that correspond to specific actions. These decoded outputs are then transmitted to robotic systems, which execute the intended movement in real time, translating neural intent into physical action. 0
@@ -32,7 +32,7 @@ BCI-based robotic systems enable patients to control robotic limbs, exoskeletons
 
 
 
-<img src="https://github.com/user-attachments/assets/c5e419f7-2db7-4bbb-96f7-57a202b98d8a" alt="Image 3" width="400">
+<img src="https://github.com/user-attachments/assets/c5e419f7-2db7-4bbb-96f7-57a202b98d8a" alt="Image 3" width="800">
 
 <br><br>
 
@@ -40,7 +40,7 @@ BCI-based robotic systems enable patients to control robotic limbs, exoskeletons
 BCI systems integrated with robotic devices have been applied in clinical contexts to assist patients with paralysis and chronic motor deficits. By decoding neural signals related to intended movement, these systems allow individuals to interact with robotic arms, prosthetic devices, and communication interfaces, providing alternative means of functional control and promoting independence in activities of daily living. 3
 
 
-<img src="https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7" alt="Image 4" width="400">
+<img src="https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7" alt="Image 4" width="800">
 <br><br>
 
 
@@ -53,7 +53,7 @@ In rehabilitation settings, BCI-robot systems can reduce physical strain on pati
 ## Real-World Applications Already in Use
 
 
-<img src="https://github.com/user-attachments/assets/c147ddcb-3ae4-4a96-9dce-aba5336d3968" alt="Image 6" width="400">
+<img src="https://github.com/user-attachments/assets/c147ddcb-3ae4-4a96-9dce-aba5336d3968" alt="Image 6" width="800">
 <br><br>
 
 
@@ -70,10 +70,9 @@ Ethical considerations include ensuring informed consent, protecting sensitive n
 
 
 
-<img src="https://github.com/user-attachments/assets/5be0776e-b30a-445a-a9ea-c4ebb880d88f" alt="Image 7" width="400">
+<img src="https://github.com/user-attachments/assets/5be0776e-b30a-445a-a9ea-c4ebb880d88f" alt="Image 7" width="800">
 
 <br><br>
-
 Future research continues to explore improvements in decoding accuracy, signal acquisition methods, and hybrid sensing approaches that combine EEG with other modalities. These advances aim to enhance reliability, widen clinical applicability, and expand the use of BCIs beyond traditional rehabilitation into areas such as adaptive assistive control, teleoperation, and personalized therapy protocols. 5
 
 ## Conclusion
