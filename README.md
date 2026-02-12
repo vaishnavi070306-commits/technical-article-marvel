@@ -5,11 +5,11 @@
                             
                             
                           
-Imagine being unable to move your hands, speak, or even press a button — yet still being able to control a robot, type words, or move a prosthetic limb *just by thinking*.
+Imagine being unable to move your hands, speak, or even press a button,yet still being able to control a robot, type words, or move a prosthetic limb *just by thinking*.
 
 This is not science fiction anymore.
 
-Brain-reading robots are becoming a reality, and between *2022 and 2030, this technology is expected to grow rapidly — especially in the **healthcare industry*, where speed, accuracy, and reliability can change lives.
+Brain-reading robots are becoming a reality, and between *2022 and 2030, this technology is expected to grow rapidly,especially in the **healthcare industry*, where speed, accuracy, and reliability can change lives.
 
 
 <img src="https://github.com/user-attachments/assets/304485a6-78e1-4f9c-b172-0fb899673b99" alt="Image 1" width="400">
@@ -40,7 +40,7 @@ Below is a simplified view of how brain-reading robots function:
 4. Commands are sent to a *robot or device*
 5. The robot performs the intended action
 
-No thoughts are decoded — only measurable electrical activity.
+No thoughts are decoded only measurable electrical activity.
 
 ## 🏥 Why Healthcare Is Leading This Market
 
@@ -67,9 +67,7 @@ Patients can control:
 - Wheelchairs
 - Communication systems
 
-
-
-  <img src="https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7" alt="Image 4" width="400">
+ <img src="https://github.com/user-attachments/assets/88fa0b28-31d3-48c9-a300-18ede4f826a7" alt="Image 4" width="400">
 
 All without physical movement.
 
@@ -122,7 +120,7 @@ Brain-reading robots are already helping in:
 - Medical research and diagnostics
 
 
-This technology is no longer experimental — it is *operational*.
+This technology is no longer experimental,it is *operational*.
 
 ## Challenges and Ethical Concerns
 
@@ -151,7 +149,7 @@ As costs decrease and accuracy improves, their use may expand beyond hospitals i
 
 ##  CONCLUSION
 
-Brain-reading robots are not about machines taking control — they are about *giving control back to humans*.
+Brain-reading robots are not about machines taking control they are about *giving control back to humans*.
 
 Their rapid growth in healthcare shows how powerful the combination of *brain science, artificial intelligence, and robotics* can be when used responsibly. What once sounded impossible is now quietly transforming lives.
 
