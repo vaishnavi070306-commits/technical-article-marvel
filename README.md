@@ -51,7 +51,7 @@ These interactions do not require voluntary physical movement, making them viabl
 
 In rehabilitation settings, BCI robot systems can reduce physical strain on patients by eliminating the need for manual input devices. Direct neural control enables faster response times and consistent execution of repetitive rehabilitation tasks, improving efficiency in long-term care and neurorehabilitation facilities.
 
-## Real-World Applications Already In Use
+## Real World Applications Already In Use
 <br><br>
 
 <img src="https://github.com/user-attachments/assets/c147ddcb-3ae4-4a96-9dce-aba5336d3968" alt="Image 6" width="800">
