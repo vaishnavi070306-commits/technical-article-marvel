@@ -76,7 +76,7 @@ Ethical considerations include ensuring informed consent, protecting sensitive n
 <br><br>
 Future research continues to explore improvements in decoding accuracy, signal acquisition methods, and hybrid sensing approaches that combine EEG with other modalities. These advances aim to enhance reliability, widen clinical applicability, and expand the use of BCIs beyond traditional rehabilitation into areas such as adaptive assistive control, teleoperation, and personalized therapy protocols. 
 
-## Conclusion
+# Conclusion
 
 Brain reading robots represent a significant advancement in assistive healthcare technology. By combining neuroscience, artificial intelligence, and robotics, these systems provide effective solutions for patients with motor and communication impairments. Continued research, clinical validation, and ethical governance will be essential for their responsible and widespread application.
 
