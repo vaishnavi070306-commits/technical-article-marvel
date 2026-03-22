@@ -72,7 +72,7 @@ Ethical considerations include ensuring informed consent, protecting sensitive n
 
 
 ![537112103-5be0776e-b30a-445a-a9ea-c4ebb880d88f](https://github.com/user-attachments/assets/5d141c45-b4fd-4620-b152-f97e76f60c7f)
-
+<img src="https://raw.githubusercontent.com/vaishnavi070306-commits/technical-article-marvel/main/537112103-5be0776e-b30a-445a-a9ea-c4ebb880d88f" style="max-width:100%;">
 
 <br><br>
 Future research continues to explore improvements in decoding accuracy, signal acquisition methods, and hybrid sensing approaches that combine EEG with other modalities. These advances aim to enhance reliability, widen clinical applicability, and expand the use of BCIs beyond traditional rehabilitation into areas such as adaptive assistive control, teleoperation, and personalized therapy protocols. 
